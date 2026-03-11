@@ -1,0 +1,10 @@
+{
+	"glopara": {
+		"type": "int",
+		"value": 8
+	},
+	"globalparanew": {
+		"type": "int",
+		"value": 4
+	}
+}
